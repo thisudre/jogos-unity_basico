@@ -639,6 +639,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Jogador: {fileID: 0}
+  Velocidade: 5
 --- !u!54 &1631377075
 Rigidbody:
   m_ObjectHideFlags: 0
